@@ -15,7 +15,7 @@ Thank you for taking the time to read this assessment. This repo simulates a pro
 
 - Kubernetes 1.19+ (Tested with Docker Desktop, but any local Kubernetes cluster will do)
 - Helm 3.2.0+
-- Terraform v1.4.6f
+- Terraform v1.4.6
 - aws cli
 - jq-1.6
 - curl
